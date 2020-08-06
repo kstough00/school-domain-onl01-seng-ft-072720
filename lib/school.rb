@@ -1,4 +1,4 @@
-Class new 
+class School
 
 end
 
